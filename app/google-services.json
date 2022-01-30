@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840629134834",
+    "project_id": "patronus-a32e3",
+    "storage_bucket": "patronus-a32e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840629134834:android:696c2b2c6f347228afb76b",
+        "android_client_info": {
+          "package_name": "com.example.patronus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840629134834-ri5974u5jvj26q41nrq0nlsj4b2lm8o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJv80FZE59KCIdF3Zg1VkFV5mJrtbv630"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840629134834-ri5974u5jvj26q41nrq0nlsj4b2lm8o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
